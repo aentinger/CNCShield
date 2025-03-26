@@ -6,7 +6,7 @@
 
 # 📸 Image
 
-![LXRobotics P11 CNC Shield](https://raw.githubusercontent.com/lxrobotics/CNCShield/master/images/cnc-shield-side-small.jpg)
+![LXRobotics P11 CNC Shield](images/cnc-shield-side-small.jpg)
 
 # 📂 Description
 
